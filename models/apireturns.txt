@@ -1,0 +1,13 @@
+[0 1 1 0 1]
+0.3333333333333333
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean           5625.923077         763.538462           457.461538
+median          425.000000          97.500000            99.000000
+std           19444.774621        2016.609357           800.604833
+[0.2588571249999996, 0.6618482500000002]
+[0.0, 0.0, 0.0, 0.0, 0.0]
+Package    Version Latest Type
+---------- ------- ------ -----
+pip        23.3    23.3.1 wheel
+setuptools 68.0.0  68.2.2 wheel
+wheel      0.41.2  0.41.3 wheel
